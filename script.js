@@ -2,8 +2,8 @@ var typed = new Typed("#element", {
   strings: [
     "Frontend Web Developer",
     "Full Stack Developer",
-    "Software Developer",
     "UI/UX Designer",
+    "Software Developer",
   ],
   typeSpeed: 70,
 });
